@@ -116,7 +116,7 @@ Creating full-stack projects
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shikhar004dot-com/shikhar004dot-com/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shikhar004dot-com/shikhar004dot-com/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
