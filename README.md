@@ -1,12 +1,12 @@
 <h1 align="center">⚡ Shikhar Srivastava ⚡</h1>
-<h3 align="center">🌑 Backend Developer | Java • Node.js • Express</h3>
+<h3 align="center">🚀 Backend Developer | Java • Node.js • Express • MongoDB</h3>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:00F7FF&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+%7C+Node.js+%7C+Express;Backend+Developer+🚀;Designing+APIs+%26+Systems;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+Developer+🚀;Designing+APIs+%26+Systems;Turning+Ideas+Into+Reality" />
 </p>
 
 ---
@@ -32,8 +32,8 @@ shikharsrivastava816@gmail.com
 **🎓 College**  
 GLA University, Mathura  
 
-**☕ Fuel**  
-Chai ☕ + Music 🎧 + Late Nights 🌙  
+**🎯 Interests**  
+Backend Development • DSA • Open Source
 
 ---
 
@@ -56,7 +56,7 @@ Chai ☕ + Music 🎧 + Late Nights 🌙
 ## 🧠 About Me
 
 I’m a passionate **Backend Developer** focused on building scalable and efficient systems.  
-Currently mastering **Java, DSA, Node.js, and Express**, and exploring real-world backend architecture.
+Currently mastering **Java, DSA, Node.js, Express and MongoDB**, and exploring real-world backend architecture.
 
 I enjoy solving problems, building APIs, and turning ideas into real applications.
 
@@ -75,10 +75,49 @@ Creating full-stack projects
 
 ---
 
+## 🌍 Open Source
+
+🏆 First Open Source Contribution Successfully Merged
+
+- Repository: firstcontributions/first-contributions
+- Pull Request: #117957
+- Learned:
+  - Forking repositories
+  - Creating commits
+  - Opening Pull Requests
+  - Code reviews
+  - Merging contributions
+
+🚀 Looking forward to contributing to more open-source projects.
+
+---
+
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,express,js,html,css,python,c&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,mongodb,js,html,css,python,c,git,github&theme=dark"/>
+</p>
+
+---
+
+## 🏆 Coding Profiles
+
+<p>
+  <a href="https://github.com/shikhar004dot-com">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Shikhar_004/">
+    <img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/Shikhar_004">
+    <img src="https://img.shields.io/badge/HackerRank-0f172a?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/Shikhar_004">
+    <img src="https://img.shields.io/badge/Codeforces-0f172a?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/>
+  </a>
 </p>
 
 ---
