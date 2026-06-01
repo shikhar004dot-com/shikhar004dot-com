@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Shikhar Srivastava ⚡</h1>
-<h3 align="center">🚀 Backend Developer | Java • Node.js • Express • MongoDB</h3>
+<h3 align="center">🚀 Software Developer | Java • DSA • Backend Development</h3>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:00F7FF&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -75,22 +75,39 @@ Creating full-stack projects
 
 ---
 
-## 🌍 Open Source
+## 🌍 Open Source Contributions
 
-🏆 First Open Source Contribution Successfully Merged
+### 🏆 Cake Build
 
-- Repository: firstcontributions/first-contributions
-- Pull Request: #117957
-- Learned:
-  - Forking repositories
-  - Creating commits
-  - Opening Pull Requests
-  - Code reviews
-  - Merging contributions
+[![Merged PR](https://img.shields.io/badge/Merged-PR-success?style=for-the-badge&logo=github)](https://github.com/cake-build/website/pull/3413)
+[![Cake Build](https://img.shields.io/badge/Cake-Build-blue?style=for-the-badge)](https://github.com/cake-build/website)
 
-🚀 Looking forward to contributing to more open-source projects.
+📖 Added documentation for supported globbing patterns in Cake Build.
+
+**Contribution Highlights**
+- Added documentation for Cake globbing syntax
+- Documented wildcards (`*`, `**`)
+- Documented character matching (`[abc]`, `[a-z]`)
+- Added brace expansion examples
+- Added directory matching examples
+
+🔗 PR: https://github.com/cake-build/website/pull/3413
 
 ---
+
+### 🏆 First Contributions
+
+[![Merged PR](https://img.shields.io/badge/Merged-PR-success?style=for-the-badge&logo=github)](https://github.com/firstcontributions/first-contributions/pull/117957)
+
+🔗 PR: https://github.com/firstcontributions/first-contributions/pull/117957
+
+**Learned**
+- Forking repositories
+- Creating branches
+- Opening Pull Requests
+- Working with maintainers
+
+🚀 Looking forward to contributing to more open-source projects.
 
 ## 🛠️ Tech Stack
 
