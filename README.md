@@ -84,13 +84,6 @@ Creating full-stack projects
 
 📖 Added documentation for supported globbing patterns in Cake Build.
 
-**Contribution Highlights**
-- Added documentation for Cake globbing syntax
-- Documented wildcards (`*`, `**`)
-- Documented character matching (`[abc]`, `[a-z]`)
-- Added brace expansion examples
-- Added directory matching examples
-
 🔗 PR: https://github.com/cake-build/website/pull/3413
 
 ---
