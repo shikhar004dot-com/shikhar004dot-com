@@ -22,7 +22,7 @@
 </p>
 
 <p align="center"><b>Shikhar Srivastava</b></p>
-<p align="center">Backend Developer</p>
+<p align="center">Code Craftsman</p>
 
 ---
 
