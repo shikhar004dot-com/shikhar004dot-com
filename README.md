@@ -105,7 +105,11 @@ Creating full-stack projects
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,express,mongodb,js,html,css,python,c,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,mongodb,mysql,postgres,python,git,github,js,html,css,c&theme=dark"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ---
