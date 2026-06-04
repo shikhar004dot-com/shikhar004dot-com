@@ -102,6 +102,8 @@ Creating full-stack projects
 
 🚀 Looking forward to contributing to more open-source projects.
 
+---
+
 ## 🛠️ Tech Stack
 
 <p>
@@ -109,6 +111,8 @@ Creating full-stack projects
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge&logo=fastapi&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Thunder%20Client-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
