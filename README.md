@@ -107,7 +107,7 @@ Creating full-stack projects
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,express,mongodb,mysql,postgres,python,git,github,js,html,css,c&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,nodejs,express,mongodb,mysql,postgres,git,github,vscode&theme=dark"/>
 </p>
 
 <p>
