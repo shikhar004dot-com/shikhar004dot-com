@@ -106,15 +106,17 @@ Creating full-stack projects
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,nodejs,express,mongodb,mysql,postgres,git,github,vscode&theme=dark"/>
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge&logo=fastapi&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/Thunder%20Client-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
+
 
 ---
 
